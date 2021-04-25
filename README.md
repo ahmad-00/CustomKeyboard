@@ -1,5 +1,5 @@
 # CustomKeyboard
-Fully customized in app custom Keyboard
+A Fully functional in-app Custom keyboard for both swiftUI & UIKit
 
 # Usage - UIKit
 Just copy CustomKeyboard.swift to your project. 
